@@ -1,5 +1,6 @@
 package mapping;
 
-public class Address {
+public class Address
+{
 
 }
